@@ -4,7 +4,7 @@ autograd-gamma==0.4.1
 cycler==0.10.0
 fastcache==1.1.0
 future==0.17.1
-joblib==0.14.0
+joblib==1.2.0
 kiwisolver==1.1.0
 lifelines==0.22.8
 matplotlib==3.1.1
